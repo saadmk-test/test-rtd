@@ -15,4 +15,4 @@ Sphinx configuration file used to build this docs (:doc:`see full file <conf>`),
 
    >>> # Build at
    >>> import datetime
-   >>> datetime.datetime.utcnow()
+   >>> datetime.datetime.utcnow() # new
